@@ -13,15 +13,10 @@
 
   ## installtion
   <ul>
-
   <li>Clone the repo to your local machine<li>
-
   <li>Navigate to index.js in your terminal<li>
-
   <li>Run index.js and answer prompt questions<li>
-
   <li>Then a read me file will be generated<li>
-
   </ul>
    
   ## license
